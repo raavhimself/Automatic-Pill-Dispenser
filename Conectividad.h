@@ -1,15 +1,15 @@
 // Configuración de la red WiFi
-char* WIFI_SSID = "Malware"; //Nombre de la red
-char* WIFI_PASSWORD = "4nZaNQAC"; //Contraseña del WiFi
+char* WIFI_SSID = "Nombre de la red"; //Nombre de la red
+char* WIFI_PASSWORD = "Contraseña del WiFi"; //Contraseña del WiFi
 
 // Configuración de Telegram
-String botToken = "7321552422:AAEOMqJ1jhTiYYMT2R_YCfLDfjyVhnbhgLM";  // Token de API del bot de Telegram
-String chatID = "7208137018";         // chat ID - proporcionado por Telegram
+String botToken = "Token de API del bot de Telegram";  // Token de API del bot de Telegram
+String chatID = "chat ID - proporcionado por Telegram";         // chat ID - proporcionado por Telegram
 
 //Email:  Configuración del servidor SMTP
-char AUTHOR_EMAIL[50] = "honkytonkbilbao@gmail.com";  // Asigna un tamaño suficiente
-char AUTHOR_PASSWORD[50] = "aial rxhh ebdy kprp";     // Asigna un tamaño suficiente
-char RECIPIENT_EMAIL[50] = "gcon114@gmail.com";       // Asigna un tamaño suficiente
+char AUTHOR_EMAIL[50] = "email emisor";  // Asigna un tamaño suficiente
+char AUTHOR_PASSWORD[50] = "codntraseña de aplicación";     // Asigna un tamaño suficiente
+char RECIPIENT_EMAIL[50] = "email receptor";       // Asigna un tamaño suficiente
 
 /*
 TELEGRAM - Token de API del bot de Telegram
